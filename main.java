@@ -1,7 +1,10 @@
 package listImplementation;
-
+/*
+ * @Author Rushabh Shah
+ */
 public class main {
 	public static void main(String args[]) {
+		//Implementing the functions of other methods
 		LinkedList ls=new LinkedList();
 		ls.insert(18);
 		ls.insert(15);
